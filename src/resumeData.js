@@ -71,28 +71,24 @@ let resumeData = {
     }
   ],
   "portfolio": [
-    {
-      "name": "Map app",
-      "description": "React app integrated with Mapbox",
-      "imgurl": "images/portfolio/map.png",
-      "url":"https://www.github.com/salahqasm/map-app"
-    },
-    {
-      "name": "project2",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/project.jpg",
-      "url":"https://www.github.com/salahqasm/map-app"
-    },
-    {
-      "name": "project3",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/project2.png"
-    },
-    {
-      "name": "project4",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/phone.jpg"
-    }
+  {
+    "name": "Map app",
+    "description": "React app integrated with Mapbox",
+    "imgurl": "images/portfolio/map.png",
+    "url": "https://www.github.com/salahqasm/map-app"
+  },
+  {
+    "name": "ITS Freelance FrontEnd",
+    "description": "Graduation Project Front end Application (React.js)",
+    "imgurl": "images/portfolio/f-itsf.png",
+    "url": "https://www.github.com/salahqasm/frontend-itsf"
+  },
+  {
+    "name": "ITS Freelance BackEnd",
+    "description": "Backend of my graduation project built with Node.js and PostgreSQL",
+    "imgurl": "images/portfolio/b-itsf.png",
+    "url": "https://www.github.com/salahqasm/backend-itsf"
+  }
   ]
 }
 
